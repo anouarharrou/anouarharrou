@@ -1,9 +1,8 @@
 
 <img src="https://github.com/anouarharrou/anouarharrou/blob/main/assets/Github_Banner.png" width="3000" />
 
-<br />
-Hi 👋 My name is Harrou Anouar
-==============================
+<br/>
+
 
 Network Engineer | Web Developer | DevOps and Graphic Designer
 --------------------------------------------------------------
