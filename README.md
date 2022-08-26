@@ -1,5 +1,5 @@
 
-<img src="https://github.com/anouarharrou/anouarharrou/blob/main/assets/Banner.png" width="3000" />
+<img src="https://github.com/anouarharrou/anouarharrou/blob/main/assets/Github_Banner.png" width="3000" />
 
 <br />
 Hi 👋 My name is Harrou Anouar
