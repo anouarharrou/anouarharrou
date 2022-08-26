@@ -20,6 +20,11 @@ Network Engineer | Web Developer | DevOps and Graphic Designer
 <a href="https://www.twitter.com/Anouar_Harry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Anouar_Harry?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<hr/>
+
+## 🏆 **GITHUB Activties**
+
+<a href="http://www.github.com/anouarharrou"><img src="https://activity-graph.herokuapp.com/graph?username=anouarharrou&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Skills
 
