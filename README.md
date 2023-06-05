@@ -19,6 +19,7 @@ Network Engineer | Web Developer | DevOps and Graphic Designer
 * 🖥️  See my portfolio at [Github Pages](http://anouarharrou.github.io/)
 * 🧠  I'm learning Python, ML..
 * 🤝  I'm open to collaborating on intersesting Projects
+* ![Profile views](http://www.github.com/anouarharrou/counter.svg)
 
 <a href="https://www.twitter.com/Anouar_Harry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Anouar_Harry?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -53,9 +54,7 @@ src="https://img.shields.io/twitter/follow/Anouar_Harry?logo=twitter&style=for-t
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/anouar.harrou/"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a> <!--
+ <!--
 <a href="https://discord.gg/TTsSYUJzDa"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
@@ -71,9 +70,7 @@ src="https://img.shields.io/twitter/follow/Anouar_Harry?logo=twitter&style=for-t
  <a href="https://twitter.com/Anouar_Harry"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href="https://www.facebook.com/anouar.harrou1"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
-</a> 
+
 <a  href="https://www.linkedin.com/in/anouarharrou//">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 
