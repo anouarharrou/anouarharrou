@@ -14,11 +14,11 @@ DevOps | Network Engineer | Web Developer
 
 
 👀 Hello! I'm a Network Student Engineer and DevOps Intern
-Welcome to my GitHub profile! I'm a passionate Network Student Engineer currently interning as a DevOps Engineer at Company X. During my internship, I have had the opportunity to work on diverse projects, expanding my skills and knowledge in the exciting field of DevOps.
+Welcome to my GitHub profile! I'm a passionate Network Student Engineer currently interning as a DevOps Engineer at SGABS. During my internship, I have had the opportunity to work on diverse projects, expanding my skills and knowledge in the exciting field of DevOps.
 
-🌱 One of my key projects involved tackling the challenge of creating a Kubernetes cluster on separate VMs within the Promise environment, which presented the additional complexity of having no internet access connection. This experience honed my ability to devise innovative solutions and navigate unique environments.
+🌱 One of my key projects involved tackling the challenge of automating the process of creating and configuring a Kubernetes cluster on separate VMs within the Promise environment. This undertaking was further complicated by the absence of an internet connection, adding an additional layer of complexity. Through this project, I honed my ability to devise innovative solutions and navigate unique environments, strengthening my skills in automation and orchestration.
 
-Additionally, I've been involved in developing an Ansible playbook that automates the creation and configuration of various servers and packages within our infrastructure, leveraging the power of the ManageIQ platform. This hands-on experience has reinforced my understanding of infrastructure automation and orchestration.
+Additionally, I've been involved in developing an Ansible playbooks that automates the creation and configuration of various servers and packages within our infrastructure, leveraging the power of the ManageIQ platform. This hands-on experience has reinforced my understanding of infrastructure automation and orchestration.
 
 💞️  I am constantly driven by the desire to enhance my skills and broaden my expertise in different aspects of technology. I thrive in dynamic environments where I can actively contribute to new and exciting projects. If you have any collaboration ideas or opportunities that align with my interests, I would be delighted to explore them.
 
