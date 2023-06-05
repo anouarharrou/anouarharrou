@@ -19,7 +19,7 @@ Network Engineer | Web Developer | DevOps and Graphic Designer
 * 🖥️  See my portfolio at [Github Pages](http://anouarharrou.github.io/)
 * 🧠  I'm learning Python, ML..
 * 🤝  I'm open to collaborating on intersesting Projects
-* ![Profile Views](https://komarev.com/ghpvc/?username=anouarharrou)
+* ![Profile Views](https://komarev.com/ghpvc/?username=anouarharrou&style=for-the-badge)
 
 
 <a href="https://www.twitter.com/Anouar_Harry" target="_blank" rel="noreferrer"><img
