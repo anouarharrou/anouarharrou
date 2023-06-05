@@ -103,9 +103,9 @@ src="https://img.shields.io/twitter/follow/Anouar_Harry?logo=twitter&style=for-t
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anouarharrou&show_icons=true&locale=en" alt="anouarharrou" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anouarharrou&" alt="anouarharrou" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anouarharrou" alt="anouarharrou" /></p>
 
-<hr />
+
 
 ### **Thanks for checking out my GitHub Profile!** 🙏
 
