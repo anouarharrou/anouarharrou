@@ -13,14 +13,18 @@ DevOps Engineer
 
 
 
-👀 Hello! I'm a Network Student Engineer and DevOps Intern
-Welcome to my GitHub profile! I'm a passionate Network Student Engineer currently interning as a DevOps Engineer at SGABS. During my internship, I have had the opportunity to work on diverse projects, expanding my skills and knowledge in the exciting field of DevOps.
+👋 Hello there! I'm a State Engineer in Information Technology and Communication Networks, currently serving as a DevOps Engineer at Société Générale Africa Business Services (SGABS). I'm passionate about automating and streamlining deployment processes for infrastructure and applications, and I'm excited to share my journey and ongoing projects with you.
 
-🌱 One of my key projects involved tackling the challenge of automating the process of creating and configuring a Kubernetes cluster on separate VMs within the Promise environment. This undertaking was further complicated by the absence of an internet connection, adding an additional layer of complexity. Through this project, I honed my ability to devise innovative solutions and navigate unique environments, strengthening my skills in automation and orchestration.
+🌱 Currently, I'm deeply engaged in a comprehensive pipeline project designed to automate and facilitate the deployment of both infrastructure and applications. Leveraging a combination of Ansible, Jenkins, and Terraform, our team is crafting a robust system to streamline and expedite the deployment processes within our company. This initiative aims to enhance efficiency and scalability while reducing manual intervention in the deployment lifecycle.
 
-Additionally, I've been involved in developing an Ansible playbooks that automates the creation and configuration of various servers and packages within our infrastructure, leveraging the power of the ManageIQ platform. This hands-on experience has reinforced my understanding of infrastructure automation and orchestration.
+Previously, one of my significant endeavors involved crafting solutions to automate the creation and configuration of a Kubernetes cluster within the Promise environment. This project, set within an environment lacking an internet connection (For security measure, the environment can't get acces to the internet), posed unique challenges that I successfully navigated, further refining my skills in automation and orchestration.
 
-💞️  I am constantly driven by the desire to enhance my skills and broaden my expertise in different aspects of technology. I thrive in dynamic environments where I can actively contribute to new and exciting projects. If you have any collaboration ideas or opportunities that align with my interests, I would be delighted to explore them.
+I've also been actively involved in developing Ansible playbooks that automate the setup and configuration of diverse servers and packages within our infrastructure, harnessing the capabilities of the ManageIQ platform. This hands-on experience has bolstered my expertise in infrastructure automation and orchestration.
+
+💡 I am continually driven by a thirst for learning and a passion for enhancing my expertise across various technological domains. Thriving in dynamic environments, I actively seek opportunities to contribute to innovative projects. If you have any collaboration ideas or opportunities aligned with my interests, I'm eager to explore and engage.
+
+🚀 Let's connect and innovate together!
+
 
 Feel free to browse through my repositories to explore my projects and contributions. I'm always eager to connect with fellow developers, share knowledge, and collaborate on exciting ventures. Let's create something amazing together!
 
