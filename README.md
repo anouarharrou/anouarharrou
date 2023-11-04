@@ -4,7 +4,7 @@
 <br/>
 
 
-DevOps | Network Engineer | Web Developer 
+DevOps Engineer 
 --------------------------------------------------------------
 
 ## Fun Fact 🎈:
