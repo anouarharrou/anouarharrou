@@ -44,7 +44,7 @@ src="https://img.shields.io/twitter/follow/Anouar_Harry?logo=twitter&style=for-t
 
 ## 🏆 **GITHUB Activties**
 
-<a href="http://www.github.com/anouarharrou"><img src="https://activity-graph.herokuapp.com/graph?username=anouarharrou&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/anouarharrou"><img src="https://activity-graph.herokuapp.com/graph?username=anouarharrou&bg_color=1c1917&color=#7f7f7f&line=0891b2&point=#7f7f7f&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
