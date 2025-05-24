@@ -31,7 +31,7 @@ Feel free to browse through my repositories to explore my projects and contribut
 Thank you for visiting my profile, and don't hesitate to reach out. Let's connect and embark on a journey of innovation and growth!
 
 * 🌍  I'm based in Casablanca, Morocco
-* 🖥️  See my portfolio at [Github Pages](http://anouarharrou.github.io/)
+* 🖥️  See my portfolio at [Github Pages](https://www.anouarharrou.online/)
 * 🧠  I'm learning New Skills, exploring new DevOps Tools..
 * 🤝  I'm open to collaborating on intersesting Projects
 * ![Profile Views](https://komarev.com/ghpvc/?username=anouarharrou&style=for-the-badge)
